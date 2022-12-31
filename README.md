@@ -1,6 +1,10 @@
 # pos
 
-WEB
+Live Preview is available at
+https://pos.763p.me/#/
+
+OR 
+
 https://pmertdogan.github.io/#/
 
 Android
